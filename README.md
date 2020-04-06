@@ -1,4 +1,4 @@
-# Project Name
+# YouTube page clone
 
 > This is a frontend project with main aim laerning how to place elements on a webpage by makeing youtube clone.
 ##   Features Added
